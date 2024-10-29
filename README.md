@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there :)
 
+"Junior developer in progress 🚀 Working on HTML, CSS, JavaScript and documenting my learning journey here."
+
+I'm currently wonrking on Edwards Lifesciensces in Ireland as an Assembler, building Catheters for hearts - for now :blush:
+
+📝I have been learning Html, Css and JavaScript and I will learn React and NodeJs too.
+
+🎯I'm looking forward to start to work as a Full Stack and to solve problems! :grin: 
 <!--
 **rodrigochristofoletti/rodrigochristofoletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
