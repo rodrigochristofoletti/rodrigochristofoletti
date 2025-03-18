@@ -1,10 +1,13 @@
-## Hi there :)
+================
 
-"Junior developer in progress 🚀 Working on HTML, CSS, JavaScript and documenting my learning journey here."
+Hi there! 👋
 
-I'm currently wonrking on Edwards Lifesciensces in Ireland as an Assembler, building Catheters for hearts - for now :blush:
+I'm Rodrigo Christofoletti, a passionate developer dedicated to continuous learning and growth in the tech industry.
 
-📝I have been learning Html, Css and JavaScript and I will learn React and NodeJs too.
+Technical Skills:
+Frontend: HTML, CSS, JavaScript
+Backend: Node.js (in progress)
+Libraries/Frameworks: React (learning phase)
 
 🎯I'm looking forward to start to work as a Full Stack and to solve problems! :grin: 
 
